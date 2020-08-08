@@ -6,6 +6,7 @@ Quasar app with Apollo (GraphQL)
 ```bash
 quasar create Quasar-Apollo
 cd Quasar-Apollo/
+quasar ext add @quasar/apollo
 ```
 ## Install the dependencies
 ```bash
